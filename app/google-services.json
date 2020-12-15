@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459047218094",
+    "firebase_url": "https://justpizza-a3690.firebaseio.com",
+    "project_id": "justpizza-a3690",
+    "storage_bucket": "justpizza-a3690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459047218094:android:acfa192528022c8983f63f",
+        "android_client_info": {
+          "package_name": "com.example.justpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459047218094-p0ogh37234pdfcasjk645c880462dm9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbfXBT74CeTd2HxceHniCyh9w4Csp_fRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459047218094-p0ogh37234pdfcasjk645c880462dm9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
